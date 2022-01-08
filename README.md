@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Itzgd
+- 👀 I’m interested in Programming and content creation
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on games, and applications
+- 📫 Reach me on discord eflopped#7337
